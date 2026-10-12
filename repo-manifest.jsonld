@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/simonw/datasette-publish-fly/commit/a14b34ade8965ffeb2afc25026ce77bd9b76f640",
       "git:hexsha": "a14b34ade8965ffeb2afc25026ce77bd9b76f640",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "1.4"
     },
     {
