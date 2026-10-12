@@ -1,0 +1,11 @@
+{
+  "org": "simonw",
+  "repo": "datasette-publish-fly",
+  "versions": [
+    {
+      "commit": "a14b34ade8965ffeb2afc25026ce77bd9b76f640",
+      "tag": "1.4",
+      "parsed_at": "2026-10-12T16:34:04.038363+00:00"
+    }
+  ]
+}
